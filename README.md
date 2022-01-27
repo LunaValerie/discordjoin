@@ -1,0 +1,2 @@
+# discordjoin
+Discord Kurdum
